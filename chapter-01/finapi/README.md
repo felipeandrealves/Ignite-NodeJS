@@ -23,11 +23,15 @@
 
 # 🚀 Sobre - Primeiro projeto com Node.js
 
-Esse modulo apresenta uma api financeira para nos familiarizarmos com o que vimos no modulo anterior
+Esse modulo apresenta uma api financeira para nos familiarizarmos com o que vimos no modulo anterior.
 
 # ❔Duvidas
 
-Não tive duvidas nesse projeto
+Não tive duvidas nesse projeto.
+
+# 🗯️ Comentarios
+
+Gostei muito da forma que foi abordado o uso do Array.reduce, é um método complicado de se aprender quando está começando e foi abordado de uma forma muito simples.
 
 ## FinAPI - Financeira
 
@@ -42,7 +46,8 @@ Não tive duvidas nesse projeto
 - [x] Deve ser possível buscar o extrato bancário do cliente por data
 - [x] Deve ser possível atualizar dados da conta do cliente
 - [x] Deve ser possível obter dados da conta do cliente
-- [] Deve ser possível deletar uma conta
+- [x] Deve ser possível deletar uma conta
+- [x] Deve ser possível rotornar o balance
 
 ---
 
@@ -53,4 +58,4 @@ Não tive duvidas nesse projeto
 - [x] Não deve ser possível fazer depósito em uma conta não existente
 - [x] Não deve ser possível fazer saque em uma conta não existente
 - [x] Não deve ser possível fazer saque quando o saldo for insuficiente
-- [] Não deve ser possível excluir uma conta não existente
+- [x] Não deve ser possível excluir uma conta não existente
