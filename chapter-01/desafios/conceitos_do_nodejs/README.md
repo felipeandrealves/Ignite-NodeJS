@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Ignite ReactJS" title="Ignite ReactJS" src="../../.github/ignite.png" />
+    <img alt="Ignite ReactJS" title="Ignite ReactJS" src="../../../.github/ignite.png" />
 </h1>
 
 <p align="center">
