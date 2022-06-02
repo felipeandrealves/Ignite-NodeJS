@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Ignite ReactJS" title="Ignite ReactJS" src="./.github/ignite.png" />
+    <img alt="Ignite ReactJS" title="Ignite ReactJS" src="../../.github/ignite.png" />
 </h1>
 
 <p align="center">
@@ -33,7 +33,7 @@ Não tive duvidas nesse projeto.
 
 Gostei muito da forma que foi abordado o uso do Array.reduce, é um método complicado de se aprender quando está começando e foi abordado de uma forma muito simples.
 
-## FinAPI - Financeira
+### FinAPI - Financeira
 
 ---
 
