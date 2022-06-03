@@ -19,6 +19,10 @@ class CategoryRepositories {
 
     this.categories.push(catetegory);
   }
+
+  list(): Category[] {
+    return this.categories;
+  }
 }
 
 export { CategoryRepositories };
