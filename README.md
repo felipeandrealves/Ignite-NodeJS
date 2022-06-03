@@ -3,20 +3,21 @@
 </h1>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/vladimiremi/ignite-reactjs?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/felipeandrealves/Ignite-NodeJS?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/vladimiremi/ignite-reactjs">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/felipeandrealves/Ignite-NodeJS">
 
-  <a href="https://github.com/vladimiremi/ignite-reactjs/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vladimiremi/ignite-reactjs">
+  <a href="https://github.com/felipeandrealves/Ignite-NodeJS">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/felipeandrealves/Ignite-NodeJS">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/vladimiremi/ignite-reactjs/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/vladimiremi/ignite-reactjs?style=social">
+
+  <a href="https://github.com/felipeandrealves">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/felipeandrealves?label=Github&style=social">
   </a>
 
-  <a href="https://www.linkedin.com/in/vladimirpiaui/">
+  <a href="https://www.linkedin.com/in/felipe-andre-alves-a278701a0/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
   </a>
 </p>
