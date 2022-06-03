@@ -23,7 +23,7 @@
 
 # 🚀 Sobre - Typescript
 
-Esse modulo apresenta uma api financeira para nos familiarizarmos com o que vimos no modulo anterior.
+Criando um simples projeto com typescript para aprender o básico.
 
 # ❔Duvidas
 
