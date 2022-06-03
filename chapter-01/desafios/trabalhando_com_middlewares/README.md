@@ -21,6 +21,6 @@
   </a>
 </p>
 
-# 🚀 Sobre - Desafio Conceitos de NodeJS
+# 🚀 Sobre - Trabalhando com middlewares
 
-Um desafios simples para repasar os conhecimentos dos modulos anteriores, porém, foi divertido fazer, e espero mais desafios assim daqui em diante
+Um pouco de prática nunca é demais não é verdade? entender o conceito de um middleware é muito importante e esse desafio ajuda bastante, além de ser simples de entender e fácil de resolver.
